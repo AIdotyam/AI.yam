@@ -1,0 +1,12 @@
+[submodule "CC"]
+	path = CC
+	url = https://github.com/AIdotyam/CC.git
+[submodule "MD"]
+	path = MD
+	url = https://github.com/AIdotyam/MD.git
+[submodule "ML"]
+	path = ML
+	url = https://github.com/AIdotyam/ML.git
+[submodule "IoT"]
+	path = IoT
+	url = https://github.com/AIdotyam/IoT.git

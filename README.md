@@ -1,6 +1,6 @@
 # AI.yam
 
-![AI.yam](https://storage.googleapis.com/aidotyam/readme/aidotyam-logo.png)
+![AI.yam](Logo.png)
 
 ## 📖 **About**
 
@@ -20,7 +20,7 @@ How can an AI-based computer vision system improve chicken monitoring by accurat
 
 ## 🏗️ **Architecture**
 
-![Architecture](https://storage.googleapis.com/aidotyam/readme/aidotyam-architecture.png)
+![Architecture](Architecture.png)
 
 ## 🔧 **Core Technologies**
 
